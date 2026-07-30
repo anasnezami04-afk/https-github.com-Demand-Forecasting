@@ -178,7 +178,7 @@ demand-forecasting-app/
 
 ## 👤 Author
 
-For any questions or issues, please open an issue on GitHub: [@Siddharth Mishra](https://github.com/Sid3503)
+For any questions or issues, please open an issue on GitHub: [@Anas](https://github.com/Anas0408)
 
 ---
 
